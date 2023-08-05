@@ -87,16 +87,7 @@
 												</div>
 											</td>
 										</tr>
-										<tr>
-											<td>Data Buku</td>
-											<td>:</td>
-											<td>
-												<div id="result_tunggu_buku">
-													<p style="color:red">* Belum Ada Hasil</p>
-												</div>
-												<div id="result_buku"></div>
-											</td>
-										</tr>
+										
 									</table>
 								</div>
 							</div>
