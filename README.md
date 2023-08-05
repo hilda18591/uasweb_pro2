@@ -1,11 +1,7 @@
 ## Judul Program
 
-Sistem Informasi Perpustakaan
+Sistem Informasi Peminjaman Buku/Perpustakaan
 
-## Framework
-
-- Codeigniter
-- Template Admin LTE
 
 ## Deskripsi Aplikasi
 
@@ -30,9 +26,9 @@ Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan
 <br/>
 Nama Petugas : Hilda Aulia
 <br/>
-Username : petugas
+USERNAME : petugas
 <br/>
-Password : petugas
+PASSWORD : petugas
 
 <b>Anggota Perpus :</b>
 <br/>
